@@ -1,0 +1,4 @@
+Error occurred in the system.
+System error not found.
+The system is running smoothly, but error logs must be checked.
+Logs are important for debugging the system.
